@@ -1,7 +1,7 @@
 # tasm calculator !!
 
 a basic calculator project built with turbo assembler (tasm) for our computer architecture lab.  
-it supports arithmetic and logic operationsin binary, decimal, and hexadecimal bases. after each operation, flag values are displayed.
+it supports arithmetic and logic operations in binary, decimal, and hexadecimal bases. after each operation, flag values are displayed.
 
 ## features
 - select base (binary, decimal, hexadecimal)
@@ -9,6 +9,7 @@ it supports arithmetic and logic operationsin binary, decimal, and hexadecimal b
 - display flags: zf, cf, sf, of
 - simple text ui
 
+( update: the hexadecimal operations and flags output need to be fixed xD )
 ## how to run
 > this project was developed and tested using **DOSBox** and **TASM**  
 >[TASM GitHub Repo (CS-TASM-x86)](https://github.com/slaee/CS-TASM-x86)
